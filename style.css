@@ -954,7 +954,7 @@ body {
     }
     
     .collection-item {
-        height: 250px;
+        height: 100%;
     }
     
     .placeholder-img {
